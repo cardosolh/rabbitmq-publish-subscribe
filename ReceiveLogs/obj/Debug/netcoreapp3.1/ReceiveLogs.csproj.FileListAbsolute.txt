@@ -1,0 +1,16 @@
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.exe
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.deps.json
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.json
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.dev.json
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.pdb
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csprojAssemblyReference.cache
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfoInputs.cache
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfo.cs
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CoreCompileInputs.cache
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CopyComplete
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.pdb
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.genruntimeconfig.cache

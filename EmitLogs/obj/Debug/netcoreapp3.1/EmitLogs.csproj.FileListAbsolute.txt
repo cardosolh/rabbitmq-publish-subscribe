@@ -1,0 +1,16 @@
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.exe
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.deps.json
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.runtimeconfig.json
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.runtimeconfig.dev.json
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\EmitLogs.pdb
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.csprojAssemblyReference.cache
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.AssemblyInfoInputs.cache
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.AssemblyInfo.cs
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.csproj.CoreCompileInputs.cache
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.csproj.CopyComplete
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.dll
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.pdb
+D:\repos\rabbitmq\rabbitmq-publish-subscribe\EmitLogs\obj\Debug\netcoreapp3.1\EmitLogs.genruntimeconfig.cache
